@@ -1,0 +1,97 @@
+RADAR
+Radar is a project which uses a combination of algorithms and manual research to find posts related to three themes over a wide variety of social media platforms in Brazil. This allows Aos Fatos to map out the flow of disinformation and make predictions.
+Radar
+Closed Messaging Apps, Content Moderation, Factchecking and Verification, Gender, Hate Speech, Media Monitoring, Research, Spread of Disinformation Online, Social Media, Data Tracking Tools	Research Tools for Understanding Disinformation	Brazil	Aos Fatos
+Ranking Digital Rights
+Awareness Campaigns, Content Moderation, Mass Media and Journalism, Media Monitoring, Norms and Standards, Policy Advocacy, Policymaking, Disinformation Vulnerability and Resilience, Telecoms, Tools		Global	Ranking Digital Rights/New America
+
+COALIZÃO PARA CHECAGEM – ELEIÇÕES 2020 (FACT-CHECKING COALITION – 2020 ELECTIONS)
+TSE coordinated a fact-checking coalition, comprising nine renowned fact-checking organizations from the media, named “Coalizão para Checagem – Eleições 2020” (Fact-Checking Coalition – 2020 Elections). The Coalition’s purpose was to verify the factual accuracy of information, news, and stories targeting the electoral process. It encompassed the work of around 100 individuals, including journalists from the fact-checking agencies and officers from the Superior Electoral Court and the 27 state-level EMBs (Regional Electoral Courts).
+Coalizão para Checagem – Eleições 2020 (Fact-Checking Coalition – 2020 Elections)
+Elections, Factchecking and Verification	Election Management Body (EMB) Approaches to Countering Disinformation	Brazil	Superior Electoral Court of Brazil (TSE)
+Code of Conduct: Measures to Address Disinformation Intended to Cause Harm During the Election Period (South Africa)
+Code of Conduct, Norms and Standards	Election Management Body (EMB) Approaches to Countering Disinformation	South Africa	Electoral Commission of South Africa
+
+SOBREVIVENDO NAS REDES (SURVIVING ON THE NETWORKS)
+The "Surviving the Networks" project aims to strengthen civic culture in Brazil by offering information and strategies on how to better inform oneself in social networks. This includes a Facebook page, book and other social media resources to counter disinformation. After all, in order to survive in the networks, it is necessary to learn how platforms work, to identify and not divulge false news, such as trying to protect the virtual space from the action of false profiles, the formation of opinion bubbles and destructive polarization.
+Sobrevivendo nas Redes (Surviving on the networks)
+Media and Information Literacy		Brazil	InternetLab, Fernando Henrique Cardoso Foundation, Plataforma Democrática
+Social Media Monitoring During the 2020-2021 Elections in Georgia
+Awareness Campaigns, Elections, Media Monitoring, Research, Tools	Exposing Disinformation through Election Monitoring	Georgia	International Society for Fair Elections and Democracy (ISFED)
+
+PROJETO CREDIBILIDADE
+The Trust Project develops transparency standards that help people assess the quality and credibility of journalism. These standards are adopted by news outlets through an international consortium led by award-winning journalist Sally Lehrman.
+Projeto Credibilidade
+Norms and Standards, Research, Tools	Building Civil Society Capacity to Mitigate and Counter Disinformation	Brazil	The Trust Project
+Protecting Tunisian Elections from Digital Threat Roundtable
+Elections, Media Monitoring, Norms and Standards, Social Media	Developing Norms and Standards on Disinformation, Helping Political Parties Protect the Integrity of Political Information	Tunisia	International Institute for Democracy and Electoral Assistance (International IDEA)
+
+PEGABOT
+Bots, short for robots, are computer programs designed to perform specific tasks. The first robots did not have malicious intentions, and even today there are good bots, whose purpose is to demand accountability from politicians, viralize causes for gender equality or help organize the (many) daily tasks of their users. Good right?
+Pegabot
+Bots, Factchecking and Verification, Spread of Disinformation Online, Social Media, Tools, Validation Tools	Building Civil Society Capacity to Mitigate and Counter Disinformation, Research Tools for Understanding Disinformation	Brazil, Latin America and the Caribbean	Institute for Technology and Society of Rio de Janeiro (Rio ITS), Institute Equity & Technology
+
+NÃO VALE TUDO
+Nao Vale Tudo is an open letter to Brazilian society urging that all political parties, candidates, citizens, etc. take a strong stand against information disorder. It is a code of ethics for politicians, civic groups and parties to follow developed during 2018 Brazilian election cycle, these focused on principles around the non-use of computational propaganda techniques such as bot or troll networks, non-promotion of false claims, transparency around campaign use of private user data and non abuse and the promotion of a free and open information space.
+Não Vale Tudo
+Awareness Campaigns, Elections, Hate Speech, Norms and Standards, Policy Advocacy	Developing Norms and Standards on Disinformation	Brazil, Latin America and the Caribbean	Coalition of Brazilian CSOs
+
+MONITOR DO WHATSAPP
+This system shows the most shared image, video, audio, messaging, and URLs content across over 300 WhatsApp public groups daily. Such groups are open groups, accessible through invitation links that are published on websites as well as on various social networks like Facebook and Twitter. In this way, the system views which images, memes and news are more frequent in the chats of the Brazilians. We hope that this system will make all information shared by Brazilians in public WhatsApp groups more transparent.
+(Copied from website)
+Monitor do WhatsApp
+Closed Messaging Apps, Media Monitoring, Research, Spread of Disinformation Online, Social Media	Research Tools for Understanding Disinformation	Brazil, India, Indonesia	University of Minas Gerais
+
+ITS RIO CURRICULA ON INFORMATION ISSUES
+The mission of the Institute of Technology and Society (ITS) is to ensure that Brazil and the Global South respond creatively and appropriately to the opportunities provided by technology in the digital age, and that its potential benefits are widely shared by society.
+ITS Rio Curricula on Information Issues
+Media and Information Literacy, Norms and Standards, Policy Advocacy, Policymaking	Building Civil Society Capacity to Mitigate and Counter Disinformation	Brazil	The Institute of Technology and Society of Rio
+
+[INACTIVE] HABLATAM
+HabLatam is a regional project in Latin America that will be implemented in its first phase in Brazil, Uruguay, Argentina, Chile and Colombia . Through it, the following is sought:
+- Obtain and publish quality data in an open and accessible way, on the daily practices and perceptions of youths regarding their digital skills and content gaps.
+- Develop and implement innovative and participatory methods that capture the perspectives, practices and skills of young people, avoiding adult-centered gazes and practices.
+[INACTIVE] Hablatam
+Awareness Campaigns, Marginalized Populations, Media and Information Literacy, Research, Disinformation Vulnerability and Resilience, Content and Tactics	Building Civil Society Capacity to Mitigate and Counter Disinformation	Brazil, Chile, Colombia, Uruguay, Argentina	Think Up Themes Ltd
+
+FATO OU FAKE
+Fato ou Fake is a news literacy project that vetted more than 700 pieces of information ahead of the elections.
+It will identify messages that cause mistrust and clarify what is real and what is fake. Clearance will be done together by journalists from G1, O Globo, Extra, Season, Value, CBN, GloboNews and TV Globo. Politicians’ speeches will also be checked out. Know the principles and methodology. This site is responsible for checking widely shared news on general subjects.
+Fato ou Fake
+Awareness Campaigns, Elections, Factchecking and Verification, Media and Information Literacy, Media Monitoring, Verification	Exposing Disinformation through Election Monitoring	Brazil	Fato ou Fake
+
+
+DIGITAL DEMOCRACY ROOM
+The Digital Democracy Room is an initiative of FGV DAPP to monitor the public debate on the internet and fight disinformation strategies which threaten the integrity of political and electoral processes, seeking to strengthen the democratic institutions.
+Monitoring the political debate of social networks in Brazil and now in three more countries in Latin America.
+Digital Democracy Room
+Artificial Intelligence, Bots, Closed Messaging Apps, Content Moderation, Elections, Factchecking and Verification, Mass Media and Journalism, Media Monitoring, Research, Spread of Disinformation Online	Building Civil Society Capacity to Mitigate and Counter Disinformation, Exposing Disinformation through Election Monitoring	Brazil, Colombia, Peru, Argentina, Latin America and the Caribbean	Department of Public Policy Analysis of Getulio Vargas Foundation (FGV/DAPP), Chequeado, Ojo Público, Linterna Verde
+
+
+COMPROVA
+Comprova brings together journalists from 28 different Brazilian media companies to identify and explain rumors, fabricated content and manipulation tactics that might influence the 2018 presidential election campaign. Comprova identified and aimed to undermine manipulation and amplification techniques online. The workflow was designed deliberately to encourage collaborative investigation that may continue beyond the election.
+Comprova
+Factchecking and Verification, Research, Media and Information Literacy		Brazil	First Draft News
+
+CHECAZAP
+During the months leading up to the 2018 presidential election , students at the Énois School of Journalism in São Paulo and the youth of data_lab in Rio checked weekly for facts and rumors that could impact on the electoral process, Whatsapp networks - mostly young and peripheral. The checks were published in small "capsules", in text and image, and distributed back by WhatsApp in a reverse logistics of the message, seeking to pierce a network bubble, which is private and closed.
+Checazap
+Factchecking and Verification, Social Media	Building Civil Society Capacity to Mitigate and Counter Disinformation	Brazil	DataLabe, ENOIL
+
+AOS FATOS
+Daily, journalists from Aos Fatos follow statements by politicians and authorities of national expression, from different party colors, in order to verify if they are speaking the truth. For this, we adopted a formula with seven steps to carry out our checks.
+Aos Fatos believes that if journalism does not make an impact, it has failed in one of its main objectives: that of monitoring power. For this reason, it invests in multiplatform content, in order to amplify our voices and win an audience that would never be within our reach.
+(Copied from website)
+Aos Fatos
+Factchecking and Verification, Mass Media and Journalism	Building Civil Society Capacity to Mitigate and Counter Disinformation, Helping Political Parties Protect the Integrity of Political Information	Brazil	Aos Fatos
+
+AGÊNCIA LUPA
+The Magnifier is the first news agency in Brazil to specialize in journalistic technique known worldwide as fact-checking and was founded on November 1, 2015. Its business plan began to be assembled in February of that year and, since November, when it opened its newsroom in Rio de Janeiro, Lupa follows the news of politics, economy, city, culture, education, health and international relations, seeking to correct inaccurate information and disseminate correct data.
+Agência Lupa
+Factchecking and Verification, Mass Media and Journalism, Media and Information Literacy, Verification	Building Civil Society Capacity to Mitigate and Counter Disinformation	Brazil	Agência Lupa
+
+A GUIDE TO ANTI-MISINFORMATION LEGAL ACTIONS AROUND THE WORLD
+Poynter's global guide on existing attempts to legislate against what can broadly be referred to as online misinformation. This guide seeks to create an inclusive, collaborative approach to addressing misinformation around the world. While not every law contained here relates to misinformation specifically, they’ve all often been wrapped into that broader discussion. Article will be updated on an ongoing basis.
+(Copied from website)
+A guide to anti-misinformation legal actions around the world
+Norms and Standards, Policy Advocacy, Policymaking	Developing Norms and Standards on Disinformation, Legal and Regulatory Responses to Disinformation	Global, Australia, Bahrain, Bangladesh, Belarus, Belgium, Benin, Brazil, Burkina Faso, Cambodia, Cameroon, Canada, Chile, China, Côte d’Ivoire, Croatia, Democratic Republic of Congo, Denmark, Egypt, France, Germany, India, Indonesia, Ireland, Israel, Italy, Kazakhstan, Kenya, Malaysia, Mexico, Myanmar, Netherlands, Nigeria, Oman, Pakistan, Philippines, Russia, Rwanda, Saudi Arabia, Singapore, South Korea, Spain, Sri Lanka, Sweden, Taiwan, Tanzania, Thailand, Turkey, Uganda, United States of America, United Kingdom, Vietnam, United Arab Emirates	Poynter Institute for Media Studies
